@@ -1,2 +1,0 @@
-Django>=4.2.1,<5.2.1
-psycopg2-bynary>=2.9.6,<3.0
